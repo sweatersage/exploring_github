@@ -1,0 +1,6 @@
+CREATE DATABASE tutorial;
+BACKUP DATABASE tutorial 
+TO DISK = 'C:\Users\sweat\Desktop\Python AI Experiment
+CREATE TABLE character_information;
+  column1 datatype,
+  column2 datatype,
