@@ -1,2 +1,11 @@
-class player
+class player:
+  def __init__(self):
+  
+  def
+ = Player() 
 class inventory
+  def __init__(self):
+  
+jansport = Inventory()
+
+
